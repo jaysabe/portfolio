@@ -1,0 +1,26 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "portfolio project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello",
+    "dev": "next dev src",
+    "build": "next build src",
+    "start": "next start src",
+    "lint": "next lint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaysabe/portfolio.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "jaysabe",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/jaysabe/portfolio/issues"
+  },
+  "homepage": "https://github.com/jaysabe/portfolio#readme"
+}
