@@ -32,7 +32,7 @@ export const Hero = () => {
           data-aos="fade-down"
           data-aos-delay="200"
         >
-          Transforming your ideas with retention based creations
+          Transforming your ideas into retention based creations
         </p>
         <div className="flex flex-col items0center max-w-xs mx-auto gap-4 sm:justify-center sm:flex-row sm:inline-flex">
           <Link
