@@ -1,4 +1,5 @@
 import { Separator } from "./ui/separator";
+import { Card, CardContent } from "./ui/card";
 import Image from "next/image";
 
 export const InstagramPosts = () => {
@@ -40,13 +41,17 @@ export const InstagramPosts = () => {
               rel="noopener noreferrer"
               className="w-full max-w-md mx-auto"
             >
-              <Image
-                src={post.image}
-                alt={`Instagram Post ${index + 1}`}
-                width={post.width}
-                height={post.height}
-                className="rounded-lg shadow-lg"
-              />
+              <Card className="hover:scale-105 hover:shadow-lg transition-transform">
+                <CardContent>
+                  <Image
+                    src={post.image}
+                    alt={`Instagram Post ${index + 1}`}
+                    width={post.width}
+                    height={post.height}
+                    className="rounded-lg"
+                  />
+                </CardContent>
+              </Card>
             </a>
           ))}
         </div>
