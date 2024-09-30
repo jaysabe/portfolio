@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/jaysabe/portfolio/issues"
   },
-  "homepage": "https://github.com/jaysabe/portfolio#readme"
+  "homepage": "https://github.com/jaysabe/portfolio#readme",
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.7"
+  }
 }
