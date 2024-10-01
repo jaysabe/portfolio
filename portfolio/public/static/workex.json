@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Project Dahlia",
+    "role": "Freelance, Lead Web Developer",
+    "achievements": [
+      "Developed in an Agile environment with bi-weekly sprints, ensuring continuous delivery and seamless integration of new features.",
+      "Built a dynamic UI using React/Redux, styled with TailwindCSS, and integrated APIs such as Spotify and Leaflet for concert map generation, with CI/CD using GitHub Actions.",
+      "Engineered the frontend in NextJS/TypeScript with comprehensive testing, including unit, integration, and end-to-end tests in Jest.",
+      "Designed a multi-page direction system for route creation to concert venues, featuring input validation with Zod.js."
+    ]
+  },
+  {
+    "company": "Portland Community College",
+    "role": "Freelance Python Developer",
+    "achievements": [
+      "Developed and deployed a custom Discord bot to automatically forward important tutoring messages, including embedded links and attachments, from non-announcement channels to designated resource channels across multiple Discord servers.",
+      "Utilized discord.py to write the bot, leveraging asynchronous Python callbacks for real-time functionality, and ensured reliability through PyTest.",
+      "Implemented .env file authentication for simplified token management and enhanced security."
+    ]
+  },
+  {
+    "company": "Portland Community College: Tutoring Center",
+    "role": "Computer Science Tutor",
+    "achievements": [
+      "Mentored over 400 students across multiple 90-95 hour courses, helping them develop full-stack web applications using Python, Flask, HTML, CSS, JavaScript, and Node.js.",
+      "Conducted daily live-coding sessions, improving coding proficiency by 40% and reducing coding errors by 30% through detailed feedback on quality and style.",
+      "Created 10 new lab assignments and exercises, leading to a 20% increase in student performance and advancing their preparedness for future courses by up to two weeks.",
+      "Streamlined the onboarding process for future tutors by developing comprehensive documentation and roadmaps, cutting preparation time by 50%.",
+      "Boosted student engagement by 25% through emotional support and mentorship, fostering a positive learning environment in both remote and hybrid settings."
+    ]
+  },
+
+  {
+    "company": "Extra Space Storage LLC",
+    "role": "Store Manager",
+    "achievements": [
+      "Developed nationwide tracker that compiled and organized storage break-in patterns across US, improving reporting efficiency by 30% and facilitating data submission to law enforcement",
+      "Engineered a hands-free, contactless rental prototype during Covid-19 quarantine, increasing online rental conversions by  40% and enhancing customer safety",
+      "Generated monthly profit margin reports using Power Bi and Excel, improving financial decision-making across the district by 15% through enhanced reporting accuracy and insights"
+    ]
+  }
+]
