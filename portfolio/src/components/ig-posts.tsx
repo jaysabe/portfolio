@@ -28,7 +28,7 @@ export const InstagramPosts = () => {
       <h1 className="pb-4 font-bold tracking-tight text-5xl lg:text-5xl">
         Off Work You Can Find Me...
       </h1>
-      <div className="flex- items-center justify-center">
+      <div className="flex items-center justify-center">
         <Separator className="my-4 mx-auto bg-slate-100/20 h-0.5 w-40" />
       </div>
       <div className="instagram-posts flex justify-center">
