@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { Separator } from "./ui/separator";
 
 export const Profile = () => {
@@ -18,7 +19,7 @@ export const Profile = () => {
             </h1>
             <p className="mt-4 inline-block text-white-500 font-light text-xl">
               I'm a Fullstack Developer who finds immense fulfillment in
-              engineering innovative solutions to society's challenges, whether
+              engineering creative solutions to society's challenges, whether
               tackling complex web applications, creating the next terminator
               through firmware / llm development, or through celebrating the
               small victories of writing automation scripts. I believe that the
@@ -30,7 +31,7 @@ export const Profile = () => {
             <p className="mt-4 inline-block text-white-500 font-semibold text-xl">
               My craftsmanship and contributions as an engineer are centered
               around these values, striving to create impactful software that
-              both empowers others and drives positive change.
+              both empowers others and drives positive change for our future.
             </p>
           </div>
         </div>
