@@ -25,7 +25,7 @@ export const InstagramPosts = () => {
   ];
   return (
     <div className="text-center">
-      <h1 className="pb-4 font-bold tracking-tight text-5xl lg:text-6xl">
+      <h1 className="pb-4 font-bold tracking-tight text-5xl lg:text-5xl">
         Off Work You Can Find Me...
       </h1>
       <div className="flex- items-center justify-center">

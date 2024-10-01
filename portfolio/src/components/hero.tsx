@@ -22,7 +22,7 @@ export const Hero = () => {
           </div>
         </div>
         <h1
-          className="pb-4 font-extrahold tracking-tight text-transparent text-7xl lg:text-8xl bg-clip-text bg-gradient-to-r from-cyan-400 via-blue-600 to-cyan-500"
+          className="pb-4 font-extrahold tracking-tight text-transparent text-7xl lg:text-8xl bg-clip-text bg-gradient-to-r from-cyan-400 via-green-600 to-cyan-500"
           data-aos="fade-down"
         >
           Developing Made Easy
@@ -34,9 +34,9 @@ export const Hero = () => {
         >
           Transforming your ideas into retention based creations
         </p>
-        <div className="flex flex-col items0center max-w-xs mx-auto gap-4 sm:justify-center sm:flex-row sm:inline-flex">
+        <div className="flex flex-col items-center max-w-xs mx-auto gap-4 sm:justify-center sm:flex-row sm:inline-flex">
           <Link
-            className="w-full justify-center flex items-center whitespace-nowrap transition duration-150 ease-in-out font-medium rounded px-4 py-1.5  text-zinc-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white group"
+            className="w-full justify-center flex items-center whitespace-nowrap transition duration-150 ease-in-out font-medium rounded px-4 py-1.5  text-zinc-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-gradient-to-r hover:from-purple-400 hover:to=pink-600 hover:text-white group"
             data-aos="fade-down"
             data-aos-delay="400"
             href="#email"
