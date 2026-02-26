@@ -8,7 +8,7 @@ export const Hero = () => {
         <div className="mb-6" data-aos="fade-down">
           <div className="relative inline-flex before:absolute before:inset-0 gap-2 flex-wrap justify-center">
             <Link
-              href="https://www.linkedin.com/in/jacobabegglen"
+              href="https://www.linkedin.com/in/jacob-abegglen/"
               className="px-3 py-1 text-sm font-medium inline-flex items-center justify-center border rounded-full text-zinc-300 hover:text-white transition duration-150 ease-in-out w-full group border-slate-100/40"
               target="_blank"
             >

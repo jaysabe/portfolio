@@ -26,7 +26,7 @@ export const Profile = () => {
               backend services, and modern web platforms.
             </p>
             <p className="mt-4 inline-block text-white-500 font-semibold text-xl">
-              (360) 831-2912 | jayabe@pdx.edu | linkedin.com/in/jacobabegglen |
+              (360) 831-2912 | jayabe@pdx.edu | linkedin.com/in/jacob-abegglen/ |
               github.com/jaysabe
             </p>
           </div>

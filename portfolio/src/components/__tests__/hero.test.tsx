@@ -9,7 +9,7 @@ describe("Hero", () => {
       screen.getByRole("link", {
         name: /linkedin/i,
       })
-    ).toHaveAttribute("href", "https://www.linkedin.com/in/jacobabegglen");
+    ).toHaveAttribute("href", "https://www.linkedin.com/in/jacob-abegglen/");
 
     expect(
       screen.getByRole("link", {

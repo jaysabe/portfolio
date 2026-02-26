@@ -24,7 +24,7 @@ export const EmailForm = () => {
 					</Link>
 				</div>
 				<p className="text-sm text-zinc-400">
-					linkedin.com/in/jacobabegglen | github.com/jaysabe
+					linkedin.com/in/jacob-abegglen/ | github.com/jaysabe
 				</p>
 			</div>
 		</section>
