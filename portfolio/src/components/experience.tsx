@@ -3,7 +3,9 @@ import workHistory from "../../public/static/workex.json";
 import React from "react";
 
 export const WorkExperience = () => {
-  const [selectedCompany, setSelectedCompany] = useState("Taskit");
+  const [selectedCompany, setSelectedCompany] = useState(
+    workHistory[0]?.company ?? ""
+  );
 
   const handleCompanyChange = (company: string) => {
     setSelectedCompany(company);

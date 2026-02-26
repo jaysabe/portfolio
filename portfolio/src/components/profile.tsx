@@ -11,29 +11,23 @@ export const Profile = () => {
         <div className="p-1 bg-gradient-to-r from-gray-400 to-gray-700 rounded-md">
           <div className="text-left bg-gray-800 text-white p-6 rounded-md shadow-lg w-full">
             <h1 className="text-3xl font-bold">
-              Howdy <span>👋🏽</span>, I'm Jay!
+              Jacob (Jay) Abegglen
             </h1>
             <p className="mt-4 inline-block text-white-500 font-light text-xl">
-              I'm a Fullstack Developer who finds immense fulfillment in
-              engineering creative solutions to society's challenges, whether
-              tackling complex web applications 🧑🏽‍💻, creating the next terminator
-              through firmware / llm development 🤖, or through celebrating the
-              small victories of writing automation scripts.🗒️
+              DevOps Engineer | Python Automation | Infrastructure
             </p>
             <p className="mt-4 inline-block text-white-500 font-light text-xl">
-              {" "}
-              I believe that the language you use in coding does not matter as
-              long as it serves your purpose and enhances your workflow. 💪🏽
+              I build CI/CD systems, cloud automation, and full-stack
+              applications that prioritize reliability, observability, and fast
+              delivery.
             </p>
             <p className="mt-4 inline-block text-white-500 font-light text-xl">
-              I believe that open-source applications should be the norm,
-              fostering collaboration and creativity within the tech community
-              .🧑‍🤝‍🧑
+              My focus is production-ready engineering across infrastructure,
+              backend services, and modern web platforms.
             </p>
             <p className="mt-4 inline-block text-white-500 font-semibold text-xl">
-              My craftsmanship and contributions as an engineer are centered
-              around these values, striving to create impactful software that
-              both empowers others and drives positive change for our future. 🚀
+              (360) 831-2912 | jayabe@pdx.edu | linkedin.com/in/jacobabegglen |
+              github.com/jaysabe
             </p>
           </div>
         </div>

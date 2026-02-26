@@ -6,14 +6,26 @@ export const Hero = () => {
     <div className="pt-20">
       <div className="text-center px-8">
         <div className="mb-6" data-aos="fade-down">
-          <div className="relative inline-flex before:absolute before:inset-0">
+          <div className="relative inline-flex before:absolute before:inset-0 gap-2 flex-wrap justify-center">
             <Link
-              href="https://https://www.linkedin.com/in/jacob-abegglen/"
+              href="https://www.linkedin.com/in/jacobabegglen"
               className="px-3 py-1 text-sm font-medium inline-flex items-center justify-center border rounded-full text-zinc-300 hover:text-white transition duration-150 ease-in-out w-full group border-slate-100/40"
               target="_blank"
             >
               <span className="relative inline-flex items-center">
-                My Socials{""}
+                LinkedIn{""}
+                <span className="tracking-normal text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
+                  -&gt;
+                </span>
+              </span>
+            </Link>
+            <Link
+              href="https://github.com/jaysabe"
+              className="px-3 py-1 text-sm font-medium inline-flex items-center justify-center border rounded-full text-zinc-300 hover:text-white transition duration-150 ease-in-out w-full group border-slate-100/40"
+              target="_blank"
+            >
+              <span className="relative inline-flex items-center">
+                GitHub{""}
                 <span className="tracking-normal text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1">
                   -&gt;
                 </span>
@@ -25,14 +37,14 @@ export const Hero = () => {
           className="pb-4 font-extrahold tracking-tight text-transparent text-7xl lg:text-8xl bg-clip-text bg-gradient-to-r from-cyan-400 via-green-600 to-cyan-500"
           data-aos="fade-down"
         >
-          Developing Made Easy
+          DevOps + Full-Stack Engineering
         </h1>
         <p
           className="mb-8 text-lg text-zinc-300/40 font-medium"
           data-aos="fade-down"
           data-aos-delay="200"
         >
-          Transforming your ideas into retention based creations
+          Building reliable infrastructure, automation, and scalable products.
         </p>
         <div className="flex flex-col items-center max-w-xs mx-auto gap-4 sm:justify-center sm:flex-row sm:inline-flex">
           <Link
@@ -41,7 +53,7 @@ export const Hero = () => {
             data-aos-delay="400"
             href="#email"
           >
-            Lets get in touch {""}
+            Let&apos;s get in touch {""}
             <ArrowRight className="w-3 h-3 tracking-normal text-primary-500 group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 " />
           </Link>
         </div>

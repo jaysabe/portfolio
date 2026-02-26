@@ -5,8 +5,9 @@ import { Profile } from "./profile";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
-import { InstagramPosts } from "./ig-posts";
 import { WorkExperience } from "./experience";
+import { Projects } from "./project";
+import { EmailForm } from "./email-form";
 
 export const Home = () => {
   useEffect(() => {
@@ -22,7 +23,8 @@ export const Home = () => {
         <Hero />
         <Profile />
         <WorkExperience />
-        <InstagramPosts />
+        <Projects />
+        <EmailForm />
       </div>
       {/* Footer */}
     </div>
