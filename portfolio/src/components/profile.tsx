@@ -14,11 +14,11 @@ export const Profile = () => {
               Jacob (Jay) Abegglen
             </h1>
             <p className="mt-4 inline-block text-white-500 font-light text-xl">
-              DevOps Engineer | Python Automation | Infrastructure
+              Software Engineer | Python Automation | Infrastructure | Security Focused
             </p>
             <p className="mt-4 inline-block text-white-500 font-light text-xl">
               I build CI/CD systems, cloud automation, and full-stack
-              applications that prioritize reliability, observability, and fast
+              applications with security in mind, prioritizing reliability, observability, and fast
               delivery.
             </p>
             <p className="mt-4 inline-block text-white-500 font-light text-xl">
