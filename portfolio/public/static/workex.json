@@ -3,28 +3,28 @@
     "company": "CDK Global",
     "role": "Software Engineer Intern | Jun 2025 – Aug 2025 | Portland, OR",
     "achievements": [
-      "Automated cloud infrastructure testing workflows using Python and cloud APIs, improving system scalability and reliability across distributed applications.",
-      "Built and maintained automated test suites achieving 90%+ coverage with Jest and Cypress; applied data analytics to track regression trends and accelerate CI pipeline feedback by 35%.",
-      "Contributed to sprint ceremonies and cross-team communication in an Agile/Scrum environment, representing the team during demo sessions."
+      " Integrated and tested full-stack cloud features using TypeScript, React, and MongoDB, improving scalability and reliability across distributed applications.",
+      "Boosted test coverage to 90%+ with Jest and Cypress, cutting regression bugs and accelerating CI/CD feedback from 90 minute runtimes, down to seconds.",
+      "Led demo sessions in the absence of senior engineers, ensuring smooth sprint progress and clear communication across technical and non-technical team members in an Agile/Scrum environment."
     ]
   },
   {
     "company": "Computer Action Team @ PSU",
     "role": "Lead Software Engineer | Sep 2024 – Present | Portland, OR",
     "achievements": [
-      "Architected and maintained CI/CD pipelines for a university-wide lab infrastructure system, automating deployments across bare-metal Linux and Windows servers.",
-      "Applied knowledge of operating systems and computer architecture to integrate real-time lab status monitoring across distributed systems, improving observability for IT staff.",
-      "Resolved 100+ cross-platform technical issues (Windows, macOS, Linux) from the command line, maintaining a 95% user satisfaction rate.",
-      "Modernized legacy PHP/jQuery applications into modular React-based systems with automated build and deploy pipelines."
+      "Independently architected and maintained CI/CD pipelines (GitHub Actions) for university-wide lab infrastructure, owning automated deployments across bare-metal Linux servers and containerized environments from design to production.",
+      "Integrated real-time lab status monitoring across distributed systems using Grafana and log aggregation; 50+ cross-platform changes (Windows, macOS, Linux) and modernized legacy Laravel/jQuery apps into React-based systems.",
+      "Directed a team of 14 student developers, with various levels of experience, from project infancy to maturity.",
+      "Designed, Delegated, and Developed a lab status internal tool to monitor University’s lab machines, updated from legacy perl scripts to modern react frameworks."
     ]
   },
   {
     "company": "Project Dahlia Startup",
     "role": "Full-Stack Engineer | Jan 2023 – Sep 2024 | Remote",
     "achievements": [
-      "Designed and implemented CI/CD pipelines with GitHub Actions, cutting deployment time by 50% and enabling reliable automated releases.",
-      "Optimized database queries and caching strategies, increasing application performance by 25% across cloud-hosted infrastructure.",
-      "Built and deployed an enterprise SaaS platform on AWS, integrating cloud APIs and best practices for scalability and uptime."
+      "Built an enterprise SaaS platform using React and Node.js, reducing user onboarding time by 30%.",
+      "Implemented CI/CD pipelines with GitHub Actions and Docker, cutting deployment time by 50%.",
+      "Increased application performance by 25% by optimizing PostgreSQL queries and caching strategies across cloud-hosted AWS (EC2, S3) Kafka infrastructure — independently diagnosing bottlenecks using data-driven profiling."
     ]
   }
 ]
