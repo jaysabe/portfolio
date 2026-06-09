@@ -6,8 +6,9 @@ export const Projects = () => {
 			name: "BERT — Coffee Robotic Arm",
 			timeline: "Personal Project | May 2024 – Present",
 			points: [
-				"Designed a modular Python control system for a robotic arm, managing sensor data pipelines, actuation logic, and a user-facing interface.",
-				"Implemented observability hooks to monitor system state in real time, enabling rapid debugging and iteration.",
+				"Designed and implemented a modular control system coordinating sensing, actuation, and user-facing interfaces in real time.",
+				"Implemented motion actuation through C++ and refined servo limitations with algorithmic structures to produce a smoother sequence when programming the robot to complete specific tasks.",
+				"Connected visual stimulus to the robot's movement sequences allowing it to make calculated corrections to its motions.",
 			],
 		},
 		{
